@@ -425,10 +425,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "uDLeBfdzdIX1Oi",
-    "name": "EWTN",
+    "nanoid": "W9Bp7ViyOHjoax",
+    "name": "EWTN Germany",
     "iptv_urls": [
-      "https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8"
+      "https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",
@@ -802,10 +802,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "1vBPSqBW9LaA0Z",
-    "name": "MyTime Movie Network Germany",
+    "nanoid": "nSKKagLIpNXooQ",
+    "name": "Naruto Germany",
     "iptv_urls": [
-      "https://appletree-mytimemoviegerman-rakuten.amagi.tv/playlist.m3u8"
+      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",
@@ -898,6 +898,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PQjvxCMQb79j7r",
+    "name": "Nürburgring",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Yp66j5d7CX0"
+    ],
+    "language": "eng",
     "country": "de",
     "isGeoBlocked": false
   },

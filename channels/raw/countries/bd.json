@@ -1,16 +1,5 @@
 [
   {
-    "nanoid": "FjKVg1Xdb8CtFR",
-    "name": "Channel 24",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/D6HFG5WRxJc"
-    ],
-    "language": "ben",
-    "country": "bd",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "wPKzw9xyYinfk2",
     "name": "DBC NEWS",
     "iptv_urls": [],
@@ -88,9 +77,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tAb9W8sRnLY8Pr",
+    "nanoid": "4YEv6QH62bmCSw",
     "name": "Madani Channel Bangla",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/g-ICSPpqpCg"
     ],
@@ -103,7 +94,7 @@
     "name": "Nexus Television",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tr74oZM3CbA"
+      "https://www.youtube-nocookie.com/embed/enoF8ghi1bk"
     ],
     "language": "ben",
     "country": "bd",
@@ -115,6 +106,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6qJ-NLmoRVs"
+    ],
+    "language": "ben",
+    "country": "bd",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lxKB7P4hAHIaws",
+    "name": "Rtv News",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/8Lwx2zWLORk"
     ],
     "language": "ben",
     "country": "bd",

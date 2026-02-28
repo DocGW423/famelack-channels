@@ -243,7 +243,7 @@
     "country": "Congo",
     "capital": "Brazzaville",
     "timeZone": "Africa/Brazzaville",
-    "hasChannels": false
+    "hasChannels": true
   },
   "CH": {
     "country": "Switzerland",
@@ -381,7 +381,7 @@
     "country": "Western Sahara",
     "capital": "El Aaiún",
     "timeZone": "Africa/El_Aaiun",
-    "hasChannels": false
+    "hasChannels": true
   },
   "ER": {
     "country": "Eritrea",
@@ -837,7 +837,7 @@
     "country": "Mongolia",
     "capital": "Ulaanbaatar",
     "timeZone": "Asia/Ulaanbaatar",
-    "hasChannels": false
+    "hasChannels": true
   },
   "MO": {
     "country": "Macau",

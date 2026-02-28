@@ -158,7 +158,7 @@
     "name": "Force Thirteen Earthquakes",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/tXnw8DQ1LDk"
+      "https://www.youtube-nocookie.com/embed/6jMILxuE5-I"
     ],
     "language": "eng",
     "country": "au",
@@ -312,17 +312,6 @@
     "name": "RCM",
     "iptv_urls": [
       "https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Rh2TMvjYLEWCNX",
-    "name": "Real Crime",
-    "iptv_urls": [
-      "https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

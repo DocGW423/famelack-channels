@@ -58,6 +58,7 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
+      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
@@ -73,9 +74,20 @@
       "https://ztnr.rtve.es/ztnr/1694255.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jZq6B7a8Pj4"
+      "https://www.youtube-nocookie.com/embed/KbTLy1bZJC0"
     ],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0ql8ScPnCzsSJo",
+    "name": "28 kanala",
+    "iptv_urls": [
+      "https://streaming.28kanala.eus/hls/z.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eus",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -822,17 +834,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GHi6V9VFxBsZxp",
     "name": "Lancelot TV",
     "iptv_urls": [
@@ -1229,17 +1230,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "lpsuXeysMRBpVO",
-    "name": "Rakuten TV Comedy Movies Spain",
-    "iptv_urls": [
-      "https://71db867f03ce4d71a29e92155f07ab87.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6180/master.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "t7k18gf1UBscLd",
     "name": "Rakuten TV Comedy Movies UK",
     "iptv_urls": [
@@ -1581,17 +1571,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5VZ61BNkyPRLLY",
-    "name": "Tarotéame",
-    "iptv_urls": [
-      "https://5d2733224ac48.streamlock.net/taroteame/tarot_web/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0qL3gztYgSIlOF",
     "name": "TBN España",
     "iptv_urls": [
@@ -1642,17 +1621,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/d1fgkjW9TP4"
     ],
-    "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1nQKxr4bzoAoiY",
-    "name": "Telemotril",
-    "iptv_urls": [
-      "https://5940924978228.streamlock.net/8431/8431/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "spa",
     "country": "es",
     "isGeoBlocked": false
@@ -1731,6 +1699,17 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CEffbKfHtzuCb7",
+    "name": "TV Sabadell-Vallès",
+    "iptv_urls": [
+      "https://ingest1-video.streaming-pro.com/canaltaronja/sabadell/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },

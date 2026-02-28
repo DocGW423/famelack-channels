@@ -15,7 +15,7 @@
     "name": "92 NEWS HD",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lUWX-D7lz9I"
+      "https://www.youtube-nocookie.com/embed/xEL8-fp5UaI"
     ],
     "language": "urd",
     "country": "pk",
@@ -28,6 +28,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/la3pUfo_kFE"
     ],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sF8x4UncscLIdo",
+    "name": "Aik News",
+    "iptv_urls": [
+      "https://video.primexsports.com/pnn/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "urd",
     "country": "pk",
     "isGeoBlocked": false
@@ -48,7 +59,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mRYxdHc-CgA"
+      "https://www.youtube-nocookie.com/embed/zBiWRIgWMZk"
     ],
     "language": "sd",
     "country": "pk",
@@ -481,7 +492,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/BQCuFmyua9s"
+      "https://www.youtube-nocookie.com/embed/VWWY_3bjQpE"
     ],
     "language": "sd",
     "country": "pk",

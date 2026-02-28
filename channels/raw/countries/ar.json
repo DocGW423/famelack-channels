@@ -165,17 +165,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "HiSqdLo7Vz02nV",
-    "name": "Canal 3 Las Heras",
-    "iptv_urls": [
-      "https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "6iBS7M1tfSU4qM",
     "name": "Canal 4 Jujuy",
     "iptv_urls": [
@@ -213,6 +202,17 @@
     "name": "Canal 5 Santa Fe",
     "iptv_urls": [
       "https://stream.arcast.com.ar/c5sf/c5sf/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Lp6abhRcVXYInw",
+    "name": "Canal 5 TV Chepes",
+    "iptv_urls": [
+      "https://videostream.shockmedia.com.ar:19360/canal5alfatvchepes/canal5alfatvchepes.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -267,6 +267,7 @@
     "nanoid": "WYgIM57T6cgvaF",
     "name": "Canal 7 Salta",
     "iptv_urls": [
+      "https://vivo.solumedia.com:19360/cooperativa/cooperativa.m3u8",
       "https://vivo.solumedia.com:19360/canal7salta/canal7salta.m3u8"
     ],
     "youtube_urls": [],
@@ -522,21 +523,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YK4jerPW8Ia03w",
-    "name": "Chaco TV",
+    "nanoid": "njewIOEi3Bzjbb",
+    "name": "Chilecito TV",
     "iptv_urls": [
-      "https://wowzasrv.chaco.gov.ar/Streamtv/chacotv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "OpvFhpo06aVAeg",
-    "name": "Ciudad Magazine",
-    "iptv_urls": [
-      "https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8"
+      "https://vivo.solumedia.com:19360/grupoemail/grupoemail.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -548,7 +538,7 @@
     "name": "Crónica TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/sGnaFL_Syl0"
+      "https://www.youtube-nocookie.com/embed/JC7f3EUDaqw"
     ],
     "language": "spa",
     "country": "ar",
@@ -592,7 +582,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0bAmmRUyzIU"
+      "https://www.youtube-nocookie.com/embed/xsliFx1vFUo"
     ],
     "language": "spa",
     "country": "ar",
@@ -625,7 +615,7 @@
     "name": "El Once TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/crUEDs8PUxc"
+      "https://www.youtube-nocookie.com/embed/37TZ-qDyHos"
     ],
     "language": "spa",
     "country": "ar",
@@ -637,29 +627,6 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Vh8xmLBJtR8"
-    ],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "WqrxuaH4hV825l",
-    "name": "El Trece",
-    "iptv_urls": [
-      "https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8",
-      "https://livetrx01.vodgc.net/eltrecetv/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "rvSLmYJvnwZ691",
-    "name": "El Tres TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/mxoqHc_XkYs"
     ],
     "language": "spa",
     "country": "ar",
@@ -946,7 +913,7 @@
     "name": "Telediario Digital",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/PHrtuDeGt80"
+      "https://www.youtube-nocookie.com/embed/hzST8IQ3kaE"
     ],
     "language": "spa",
     "country": "ar",
@@ -1055,7 +1022,7 @@
     "nanoid": "3ZLaMvkVe8VBbx",
     "name": "Unife TV",
     "iptv_urls": [
-      "https://5dcabf026b188.streamlock.net/StreamUnife/livestream/playlist.m3u8"
+      "https://cdn.mycloudstream.io/hls/live/broadcast/xundwjvp/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1089,7 +1056,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/suTeakD3NNk"
+      "https://www.youtube-nocookie.com/embed/mB97jQl6Yhg"
     ],
     "language": "spa",
     "country": "ar",
