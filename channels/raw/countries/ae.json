@@ -1,10 +1,19 @@
 [
   {
-    "nanoid": "kkVzrzXzjFuUCN",
-    "name": "Al Arabiya",
+    "nanoid": "o7f2wdALXEzHZs",
+    "name": "Ajman TV",
     "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-arabiya/master.m3u8?ads.vf=ZxX1AzlJ9ma"
+      "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8"
     ],
+    "youtube_urls": [],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "izm1ENwmj0AflI",
+    "name": "Al Arabiya",
+    "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/n7eQejkXbnM"
     ],
@@ -139,6 +148,17 @@
     "iptv_urls": [],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/Koe1Dmep7fI"
+    ],
+    "language": "ara",
+    "country": "ae",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "URU3r9PZvWBdLZ",
+    "name": "CNBC Arabia",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/pQSTFsOtrH0"
     ],
     "language": "ara",
     "country": "ae",

@@ -524,6 +524,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "X2raGg2UtFqpWh",
+    "name": "Grjngo",
+    "iptv_urls": [
+      "https://pb-rtme7tnh9wa6k.akamaized.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "KWubgLKIN9lBtR",
     "name": "Handystar",
     "iptv_urls": [
@@ -707,17 +718,6 @@
     "name": "L-TV",
     "iptv_urls": [
       "https://live2.telvi.de/hls/l-tv_s1.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Qm2znUA46MmZwc",
-    "name": "labor14",
-    "iptv_urls": [
-      "https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "deu",

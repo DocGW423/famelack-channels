@@ -244,6 +244,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "CI4BtTpHkRl4IU",
+    "name": "CityTV San Diego",
+    "iptv_urls": [
+      "https://cdn3.wowza.com/5/dk84U1p2UUdoMGxT/sandiego/G1826_005/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "xoaAXrl0HaqGHm",
     "name": "Collier Television CTV (Naples FL)",
     "iptv_urls": [
@@ -622,19 +633,7 @@
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
       "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "iptv_urls": [
-      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -852,6 +851,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iPhkcC76kYpp0C",
+    "name": "Palm Beach County TV Channel 20 (Palm Beach County FL)",
+    "iptv_urls": [
+      "https://pbcvideostreams1.pbc.gov/memfs/1af49f9a-6b90-4ec2-a640-7f65ceebed4a.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "hKXziqHmvJRVZi",
     "name": "Parlamentsfernsehen 1",
     "iptv_urls": [
@@ -978,7 +988,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Hmv1m7nurMg"
+      "https://www.youtube-nocookie.com/embed/RiNUN12LTvQ"
     ],
     "language": "por",
     "country": "br",
@@ -1114,7 +1124,7 @@
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZNylKDqbwIU"
+      "https://www.youtube-nocookie.com/embed/l0U6gNiFSUk"
     ],
     "language": "por",
     "country": "br",
@@ -1349,6 +1359,17 @@
     "youtube_urls": [],
     "language": "ell",
     "country": "gr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jdtDDFx09GQYAn",
+    "name": "Дума ТВ",
+    "iptv_urls": [
+      "https://dumatv.iptv2022.com/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
     "isGeoBlocked": false
   }
 ]

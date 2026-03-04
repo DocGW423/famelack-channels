@@ -71,7 +71,7 @@
     "name": "DGV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TPRn_mAdXlo"
+      "https://www.youtube-nocookie.com/embed/Xn9kpIrQBAY"
     ],
     "language": "vie",
     "country": "vn",
@@ -94,6 +94,17 @@
     "iptv_urls": [
       "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8",
       "https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rsd0bqnOCHB5cf",
+    "name": "Đồng Tháp TV2",
+    "iptv_urls": [
+      "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",
@@ -129,17 +140,6 @@
     "iptv_urls": [
       "https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist.m3u8",
       "https://liveh34.vtvprime.vn/hls/HANOI2TV/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "vie",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "sb5v19pRAmTp7P",
-    "name": "HTV Key",
-    "iptv_urls": [
-      "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "vie",
@@ -227,6 +227,7 @@
     "nanoid": "LFPFH6E00LEwDC",
     "name": "QPVN HD",
     "iptv_urls": [
+      "https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8",
       "https://qpvn.vn/live/qpvn/master.m3u8"
     ],
     "youtube_urls": [],

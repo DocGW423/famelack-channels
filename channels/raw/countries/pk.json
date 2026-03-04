@@ -59,7 +59,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/zBiWRIgWMZk"
+      "https://www.youtube-nocookie.com/embed/bWEvos2Twms"
     ],
     "language": "sd",
     "country": "pk",
@@ -357,7 +357,7 @@
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lI7cPoQ_d14"
+      "https://www.youtube-nocookie.com/embed/B6RpFOqhRKw"
     ],
     "language": "urd",
     "country": "pk",
@@ -495,17 +495,6 @@
     ],
     "youtube_urls": [],
     "language": "eng",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cY2xwz2R3RaEd2",
-    "name": "Sindh TV News",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4PEkiEm1Hbw"
-    ],
-    "language": "sd",
     "country": "pk",
     "isGeoBlocked": false
   },

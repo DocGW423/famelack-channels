@@ -171,7 +171,7 @@
     "name": "CNN Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/6bcnAQvWXDA"
+      "https://www.youtube-nocookie.com/embed/z2L_kLPMxNo"
     ],
     "language": "por",
     "country": "br",
@@ -354,17 +354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kqr3JHbCw7DAtR",
-    "name": "ISTV",
-    "iptv_urls": [
-      "https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "NxqeGIVjUY8tcI",
     "name": "Loading",
     "iptv_urls": [
@@ -413,7 +402,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_Cq3tsGJOoM"
+      "https://www.youtube-nocookie.com/embed/MQPO2F3AUHM"
     ],
     "language": "por",
     "country": "br",
@@ -457,7 +446,7 @@
     "name": "Record News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/TYcY5nrp1zg"
+      "https://www.youtube-nocookie.com/embed/3OOuoDcZq0A"
     ],
     "language": "por",
     "country": "br",
@@ -512,7 +501,7 @@
     "name": "Rio TV Câmara",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Hmv1m7nurMg"
+      "https://www.youtube-nocookie.com/embed/RiNUN12LTvQ"
     ],
     "language": "por",
     "country": "br",
@@ -525,17 +514,6 @@
       "https://acesso.ecast.site:3648/live/ritlive.m3u8"
     ],
     "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "O8tFJhKTZ0GylR",
-    "name": "Santa Cruz Feira Digital",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/jkSTbSRhO98"
-    ],
     "language": "por",
     "country": "br",
     "isGeoBlocked": false
@@ -629,10 +607,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "tlMRtrczD2xa0E",
-    "name": "TCM 10 HD",
+    "nanoid": "uFUnpsEwjM0TgY",
+    "name": "TV A Folha",
     "iptv_urls": [
-      "https://live.tcm10.com.br/tcm10hd/stream.m3u8"
+      "https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",
@@ -697,22 +675,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "pP6SnedE0hiHpP",
-    "name": "TV Arapuan",
-    "iptv_urls": [
-      "https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qIar6axvqjptwG",
     "name": "TV Assembleia Minas Gerais",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/ZNylKDqbwIU"
+      "https://www.youtube-nocookie.com/embed/l0U6gNiFSUk"
     ],
     "language": "por",
     "country": "br",
@@ -972,6 +939,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0XYeCTIMchk7xn",
+    "name": "TV Modelo",
+    "iptv_urls": [
+      "https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u"
+    ],
+    "youtube_urls": [],
+    "language": "por",
+    "country": "br",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "1D59YMlkgspAYG",
     "name": "TV Mundo Maior",
     "iptv_urls": [],
@@ -998,7 +976,7 @@
     "name": "TV Notícia",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_VkTEbic7TA"
+      "https://www.youtube-nocookie.com/embed/bpmjPgoMFwU"
     ],
     "language": "por",
     "country": "br",
@@ -1108,17 +1086,6 @@
     "name": "TV Sim São Mateus",
     "iptv_urls": [
       "https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "por",
-    "country": "br",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "3SFbEQ5XiHL1nO",
-    "name": "TV Sul Bahia",
-    "iptv_urls": [
-      "https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "por",

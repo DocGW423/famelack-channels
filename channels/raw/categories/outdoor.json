@@ -67,6 +67,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sPitwPVtngUuVb",
+    "name": "ARDB TV",
+    "iptv_urls": [
+      "https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "khm",
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "cGi1H67DnO2cou",
     "name": "DD Kisan HD",
     "iptv_urls": [
@@ -151,6 +162,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lQWrqWxPSBgWUI",
+    "name": "Love Nature 4K",
+    "iptv_urls": [
+      "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S9c0VGY1z6Bbp9",
+    "name": "Outdoor America",
+    "iptv_urls": [
+      "https://d1e354daam8g5r.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "S9c0VGY1z6Bbp9",
     "name": "Outdoor America",
     "iptv_urls": [
@@ -182,6 +215,28 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": true
+  },
+  {
+    "nanoid": "P1PoD5jjT64Mum",
+    "name": "Outside TV",
+    "iptv_urls": [
+      "https://desdobebr2wri.cloudfront.net/Outside.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KQfyF0f3PWgz6t",
+    "name": "Pursuit UP",
+    "iptv_urls": [
+      "https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
   },
   {
     "nanoid": "LP8ozNzGCQn1Jz",
@@ -231,17 +286,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "KkgkdufaVWQuKo",
-    "name": "The Boat Show",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/the-boat-show/master.m3u8?ads.vf=UjpAnxTwLMK"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "lOEoXHnp8Sj0dx",
     "name": "UMC TV",
     "iptv_urls": [
@@ -265,6 +309,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TO1BuEtXll4T9g",
+    "name": "Waypoint TV",
+    "iptv_urls": [
+      "https://djb4ma5fajjay.cloudfront.net/Waypoint_TV.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpJ5K3Avxx4otV",
+    "name": "WildEarth",
+    "iptv_urls": [
+      "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "NpJ5K3Avxx4otV",
     "name": "WildEarth",
     "iptv_urls": [
@@ -277,17 +343,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "za",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "6BCaKILHCLZmH7",
-    "name": "Конный Мир",
-    "iptv_urls": [
-      "https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
     "isGeoBlocked": false
   }
 ]

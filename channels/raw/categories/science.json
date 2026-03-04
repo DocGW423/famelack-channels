@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "ioi3DtFwnFosJO",
+    "name": "InWonder",
+    "iptv_urls": [
+      "https://amg00861-terninternation-inwonderushd-samsungus-gqtpa.amagi.tv/playlist/amg00861-terninternation-inwonderushd-samsungus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "nl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mmb6ehRkLI6kQW",
     "name": "INWONDER",
     "iptv_urls": [

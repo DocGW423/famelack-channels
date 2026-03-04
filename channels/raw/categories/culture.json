@@ -78,17 +78,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "d4L8PBtWXj8rtD",
-    "name": "AsiriTV",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/asiritv/live.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "pe",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QFiAYQi0p17BXu",
     "name": "ATXN3",
     "iptv_urls": [
@@ -191,6 +180,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vUd9BZTcBgBOm3",
+    "name": "Catamarca TV",
+    "iptv_urls": [
+      "https://stream.arcast.com.ar/canal7catamarca/ngrp:canal7catamarca_all/playlist.m3u8?DVR="
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eDESw3Ox4wXwbn",
+    "name": "Chiloe Red 25",
+    "iptv_urls": [
+      "https://v2.tustreaming.cl/chiloered/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DnEqNUdycNeHRJ",
     "name": "Çiftçi TV",
     "iptv_urls": [
@@ -241,7 +252,6 @@
     "name": "DD Bharati",
     "iptv_urls": [
       "https://cdn-1.pishow.tv/live/10/master.m3u8",
-      "https://mumt01.tangotv.in/DDBHARATI/index.m3u8",
       "https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8"
     ],
     "youtube_urls": [
@@ -252,13 +262,15 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ZtL7zxGFBmbkdi",
+    "nanoid": "3RFBxxtq5PlDQ7",
     "name": "DD Kashir",
-    "iptv_urls": [],
+    "iptv_urls": [
+      "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8"
+    ],
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/v8ek4kVfr5Y"
     ],
-    "language": "ksm",
+    "language": "hin",
     "country": "in",
     "isGeoBlocked": false
   },
@@ -344,6 +356,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "vEu4AbFWQq3rTn",
+    "name": "El Sonorense",
+    "iptv_urls": [
+      "https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "mx",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SLi8f8Yz14oKR0",
     "name": "ETV2",
     "iptv_urls": [
@@ -420,6 +443,17 @@
     "youtube_urls": [],
     "language": "vie",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -1039,17 +1073,6 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "7IG6c8BLRlAZXA",
-    "name": "Беларусь 3",
-    "iptv_urls": [
-      "https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "by",
     "isGeoBlocked": false
   },
   {

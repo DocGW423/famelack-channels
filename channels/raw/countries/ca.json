@@ -25,8 +25,7 @@
     "nanoid": "4tHkld19ADlLsM",
     "name": "Apna Punjab TV",
     "iptv_urls": [
-      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8",
-      "https://mumt03.tangotv.in/APNAPUNJAB/index.m3u8"
+      "https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "hin",
@@ -49,7 +48,7 @@
     "name": "Barney the Dinosaur",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/1RCphhYPnv0"
+      "https://www.youtube-nocookie.com/embed/au_oN1yFaiA"
     ],
     "language": "eng",
     "country": "ca",
@@ -82,6 +81,17 @@
     "name": "Cable 14 Hamilton",
     "iptv_urls": [
       "https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4Hpsle8MVRjnlU",
+    "name": "CBC News",
+    "iptv_urls": [
+      "https://d2ny9lo79ujali.cloudfront.net/CBC_News_International.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -228,7 +238,7 @@
     "name": "Fugget About It",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/j7IM34in5OI"
+      "https://www.youtube-nocookie.com/embed/4F4GZ8IZo4U"
     ],
     "language": "eng",
     "country": "ca",
@@ -381,6 +391,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0bMKdIaIAwnMdw",
+    "name": "Kidoodle.TV",
+    "iptv_urls": [
+      "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mh8ffIuQVJBAom",
     "name": "Knowledge Network",
     "iptv_urls": [
@@ -417,7 +438,6 @@
     "nanoid": "I6uCCfd71b4oev",
     "name": "Legislative Assembly of Ontario",
     "iptv_urls": [
-      "https://temp3.isilive.ca/live/_definst_/ontla/house-en/playlist.m3u8",
       "https://temp2.isilive.ca/live/_definst_/ontla/house-en-cc/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -459,17 +479,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ggVaTzuCKy1JEd",
-    "name": "Legislative Assembly TV Nunavut",
-    "iptv_urls": [
-      "https://temp2.isilive.ca/live/nunavut/live-eng/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "5eNJBvozHJiGRG",
     "name": "Love Nature",
     "iptv_urls": [
@@ -480,6 +489,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/vBnErz43N1A"
     ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lQWrqWxPSBgWUI",
+    "name": "Love Nature 4K",
+    "iptv_urls": [
+      "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "ca",
     "isGeoBlocked": false
@@ -611,17 +631,6 @@
     "name": "Plymouth Rock TV",
     "iptv_urls": [
       "https://d30au7974f7qoa.cloudfront.net/scheduler/scheduleMaster/419.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CID3rJMl0Ytixb",
-    "name": "Prime Asia Tv",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/prime-asia-tv/index.m3u8?ads.vf=Vg9ARUkV43a"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1105,22 +1114,10 @@
     "nanoid": "26wbYyZD2WNH5P",
     "name": "TV Punjab",
     "iptv_urls": [
-      "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8",
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tv-punjab/master.m3u8?ads.vf=FKWvIiyQPz8"
+      "https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5894.sdp/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "pan",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "bXKVlszQEGdoup",
-    "name": "TV Témis",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dCQBjhUKxcg"
-    ],
-    "language": "fra",
     "country": "ca",
     "isGeoBlocked": false
   },

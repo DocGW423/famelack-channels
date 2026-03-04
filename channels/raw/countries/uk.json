@@ -48,7 +48,7 @@
     "name": "Amazing World of Gumball",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/nIyaCRNwxhU"
+      "https://www.youtube-nocookie.com/embed/6dQnKVRq5s0"
     ],
     "language": "eng",
     "country": "uk",
@@ -92,7 +92,7 @@
     "name": "Banijay Crime: Britain's Biggest Heists",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JVSkBZZIt5U"
+      "https://www.youtube-nocookie.com/embed/eu6Jn1C_fXw"
     ],
     "language": "eng",
     "country": "uk",
@@ -103,7 +103,7 @@
     "name": "Banijay Documentaries: Haunted Stories",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/eRq1FBD9k5c"
+      "https://www.youtube-nocookie.com/embed/UMHr__hBYYs"
     ],
     "language": "eng",
     "country": "uk",
@@ -160,6 +160,7 @@
     "name": "BBC Earth",
     "iptv_urls": [
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+      "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
       "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
     ],
@@ -183,8 +184,7 @@
     "nanoid": "g1kSsRGdu6pjqO",
     "name": "BBC News",
     "iptv_urls": [
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
-      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
+      "https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -192,10 +192,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "A7FjWEoxfZfQRg",
-    "name": "BBC News Europe",
+    "nanoid": "g1kSsRGdu6pjqO",
+    "name": "BBC News",
     "iptv_urls": [
-      "https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8"
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8",
+      "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -301,17 +302,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/6a23sxk5_vM"
     ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "EAIG1mRKi1Vp2p",
-    "name": "BritAsiaTV",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8?ads.vf=65ah6vw-F20"
-    ],
-    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
@@ -471,10 +461,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4nHYlSOW4JxBnE",
-    "name": "FIFA+ United States",
+    "nanoid": "tmxui0c8hzZyDz",
+    "name": "FIFA+",
     "iptv_urls": [
-      "https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8"
+      "https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -670,7 +660,7 @@
       "https://live.playstop.me/LS-63503-4/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/A92pqZQAsm8"
+      "https://www.youtube-nocookie.com/embed/wk0uvX60fxg"
     ],
     "language": "fas",
     "country": "uk",
@@ -710,17 +700,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e8nAySYBqJpeIt",
-    "name": "Latest TV",
-    "iptv_urls": [
-      "https://5a0e89631aa14.streamlock.net/live/LatestTelevision/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "PPjzXf8A2MSgZU",
     "name": "Love Pets",
     "iptv_urls": [
@@ -754,6 +733,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yIWLYIheXvlTbG",
+    "name": "Moonbug",
+    "iptv_urls": [
+      "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "iptv_urls": [
@@ -761,6 +751,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mlJPw3ECDsvDmO",
+    "name": "MovieSphere",
+    "iptv_urls": [
+      "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "uk",
     "isGeoBlocked": false
   },
@@ -779,7 +780,7 @@
     "nanoid": "R6VpE6L98QcSep",
     "name": "Mr. Bean Animated",
     "iptv_urls": [
-      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+      "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -1162,6 +1163,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HJBdn9H2l9QQ1Y",
+    "name": "RugbyPass TV",
+    "iptv_urls": [
+      "https://dt1kh32hg3tft.cloudfront.net/v1/world_rugby_rugbypasstv_1/samsungheadend_us/latest/main/hls/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "WQqSZQl27UG0sD",
     "name": "Safeer TV",
     "iptv_urls": [
@@ -1250,6 +1262,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IOF8Iz2JmaTIcg",
+    "name": "Teletubbies",
+    "iptv_urls": [
+      "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "4YjOR1sj6Tzig4",
     "name": "Tennis+",
     "iptv_urls": [
@@ -1332,6 +1355,17 @@
     "nanoid": "ibnE8ejnPqbYoZ",
     "name": "Top Gear",
     "iptv_urls": [
+      "https://d1daq1khzqxpku.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ibnE8ejnPqbYoZ",
+    "name": "Top Gear",
+    "iptv_urls": [
       "https://aegis-cloudfront-1.tubi.video/33ccaca5-a666-4b28-8578-55a9ab9f06d5/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1406,17 +1440,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "2e0RNEU1NHz9cZ",
-    "name": "TRACE Latina",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8?ads.vf=jn5xeelzYbm"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "McADRCgZrX1wEb",
     "name": "True Lives",
     "iptv_urls": [
@@ -1478,6 +1501,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/VvcDydoKJRg"
     ],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M9HwvmHmrMZElD",
+    "name": "Wonder",
+    "iptv_urls": [
+      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "uk",
     "isGeoBlocked": false

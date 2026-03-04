@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "z55XBR4UrpAo4V",
+    "name": "Canal Sur",
+    "iptv_urls": [
+      "https://avm.ecuamedia.net/canalsur/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "m1fqGkSb3kQ4GK",
     "name": "Ciracu TV",
     "iptv_urls": [
@@ -114,6 +125,17 @@
     "name": "Ecuavisa Quito",
     "iptv_urls": [
       "https://redirector.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sJtHUQ2FEosClO",
+    "name": "Educa TV",
+    "iptv_urls": [
+      "https://avm.ecuamedia.net/educatv/live/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -224,6 +246,17 @@
     "name": "Loreto TV",
     "iptv_urls": [
       "https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Sp6sHwr9vDmxjt",
+    "name": "Mágica Tv",
+    "iptv_urls": [
+      "https://magicatv.4pu.com/hls/stream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -477,17 +510,6 @@
     "name": "Telerama",
     "iptv_urls": [
       "https://play.once.net.ec/telerama/live.tv/538.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ec",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "CY38SV2i5DFUTV",
-    "name": "TV Cisne",
-    "iptv_urls": [
-      "https://video2.lhdserver.es/tvcisne/live.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

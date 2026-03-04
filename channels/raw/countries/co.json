@@ -227,6 +227,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "02mPmZWllvm8GE",
+    "name": "Kalu TV",
+    "iptv_urls": [
+      "https://tv.kaludecolombia.com/memfs/800a956d-5ada-4bf1-ac15-0d11e689179c.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "co",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "GnCb5ceUbTkz25",
     "name": "La Cantina Memorias",
     "iptv_urls": [
@@ -470,10 +481,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OQFI4DY0MMP8is",
-    "name": "Telebolívar",
+    "nanoid": "nBCtUGxdm8WZSP",
+    "name": "Suram TV",
     "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/telebolivar/playlist.m3u8"
+      "https://livetv.305streamhd.com:3111/live/suramtvlive.m3u8",
+      "https://us.streaminghd.cl/suramtv/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -111,6 +111,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "2OUlzyuOp8jGlf",
+    "name": "BABY SHARK TV",
+    "iptv_urls": [
+      "https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_id=newid_346&ads.service_id=US17000208H"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ZGz9EteAP4041i",
     "name": "Balapan TV",
     "iptv_urls": [
@@ -119,6 +130,17 @@
     "youtube_urls": [],
     "language": "kaz",
     "country": "kz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fJhDeLcyoA6z4o",
+    "name": "BBC Kids",
+    "iptv_urls": [
+      "https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -365,6 +387,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "hboH9AkWIrBLT1",
+    "name": "Clifford the Big Red Dog: Classic",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/N3uhkC6r5PU"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DWHNlPkSNnnnSG",
+    "name": "Clifford the Big Red Dog: Clifford's Puppy Days",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/MitZr6QqOm8"
+    ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "DIYFiR27hwM7Fq",
     "name": "Dios Te Ve Kids",
     "iptv_urls": [
@@ -498,6 +542,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Hgr2Yg9Zm1Cgi3",
+    "name": "ducktv",
+    "iptv_urls": [
+      "https://d6lk10bkdgfae.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "sk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "mkS2euN6WoaBGB",
     "name": "EBS kids",
     "iptv_urls": [
@@ -554,21 +609,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EDJsRoJArkwgcL",
-    "name": "Jetix",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/dntv5yTbN9g"
-    ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "VSocDaubvWwvaq",
     "name": "Kartoon Channel",
     "iptv_urls": [
       "https://aegis-cloudfront-1.tubi.video/ba23a03c-22ff-4a48-ae7e-dd8bf4ee4e29/kc_co.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ajXKejHqelybWn",
+    "name": "Kartoon Channel!",
+    "iptv_urls": [
+      "https://d2z0ysa6dgxhlc.cloudfront.net/kchan.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -587,11 +642,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "0bMKdIaIAwnMdw",
+    "name": "Kidoodle.TV",
+    "iptv_urls": [
+      "https://amg07653-apmc-amg07653c9-samsung-us-8740.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "yQPdPKGvAyjQ79",
     "name": "Kids Land: Urdu",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/lI7cPoQ_d14"
+      "https://www.youtube-nocookie.com/embed/B6RpFOqhRKw"
     ],
     "language": "urd",
     "country": "pk",
@@ -753,6 +819,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "yIWLYIheXvlTbG",
+    "name": "Moonbug",
+    "iptv_urls": [
+      "https://dq2a9ghraf7sw.cloudfront.net/Moonbug.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "FeQiCZUhzv3lT3",
     "name": "Moonbug Kids",
     "iptv_urls": [
@@ -778,7 +855,7 @@
     "nanoid": "R6VpE6L98QcSep",
     "name": "Mr. Bean Animated",
     "iptv_urls": [
-      "https://amg00627-amg00627c23-samsung-au-4110.playouts.now.amagi.tv/playlist.m3u8"
+      "https://d2t1w90tnft92.cloudfront.net/Mr_Bean_Animated.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -792,6 +869,17 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/lozNmUJe0Dg"
     ],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "swrqHcDlhTpMXz",
+    "name": "Ninja Kidz",
+    "iptv_urls": [
+      "https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
@@ -922,7 +1010,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/_Cq3tsGJOoM"
+      "https://www.youtube-nocookie.com/embed/MQPO2F3AUHM"
     ],
     "language": "por",
     "country": "br",
@@ -940,14 +1028,25 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "YQjVrcxLsl4KlI",
-    "name": "Pingvīns",
+    "nanoid": "qHYQDbPp1Dcgxe",
+    "name": "pocket.watch Game On",
     "iptv_urls": [
-      "https://sirius.greenhosting.ru/PingvinRu/video.m3u8"
+      "https://dl74gpgmnb7i8.cloudfront.net/pocketwatch_GameOn.m3u8"
     ],
     "youtube_urls": [],
-    "language": "lav",
-    "country": "lv",
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4NyFCBjkWuIpW6",
+    "name": "Pocoyo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kXnrinWJ0Is"
+    ],
+    "language": "fra",
+    "country": "fr",
     "isGeoBlocked": false
   },
   {
@@ -1039,6 +1138,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "tONaVtyzG81qYw",
+    "name": "Ryan and Friends",
+    "iptv_urls": [
+      "https://d3a0tomzw8z726.cloudfront.net/Ryan_and_Friends.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "jeM871QPFywzzg",
     "name": "Sat 7 Kids",
     "iptv_urls": [
@@ -1098,7 +1208,7 @@
     "name": "Sunny Bunnies",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/as8mMpOWTUM"
+      "https://www.youtube-nocookie.com/embed/iuS62aqCDXE"
     ],
     "language": "eng",
     "country": "us",
@@ -1138,6 +1248,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "IOF8Iz2JmaTIcg",
+    "name": "Teletubbies",
+    "iptv_urls": [
+      "https://dy9gbyiaxw0rb.cloudfront.net/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "bgFuKbSHcQiqv7",
     "name": "The Land Before Time",
     "iptv_urls": [],
@@ -1146,6 +1267,28 @@
     ],
     "language": "eng",
     "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KccPuTOrHssu1Q",
+    "name": "The LEGO Channel",
+    "iptv_urls": [
+      "https://dh18i7whff86v.cloudfront.net/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m5MgU7qKVzOReb",
+    "name": "The Smurfs",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Kr7y8pbXU6s"
+    ],
+    "language": "eng",
+    "country": "us",
     "isGeoBlocked": false
   },
   {
@@ -1384,23 +1527,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "seBkiHFn8gkgrY",
-    "name": "Карусель",
+    "nanoid": "y1OGn4C9pf6ycf",
+    "name": "ZooMoo",
     "iptv_urls": [
-      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/232.m3u8"
+      "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8"
     ],
     "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
+    "language": "eng",
+    "country": "sg",
     "isGeoBlocked": false
   },
   {
-    "nanoid": "gJChs4RXWcqghm",
-    "name": "Мультимания",
+    "nanoid": "seBkiHFn8gkgrY",
+    "name": "Карусель",
     "iptv_urls": [
-      "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8",
-      "https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8"
+      "https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1468,7 +1609,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/SRoWGLp6ypc"
+      "https://www.youtube-nocookie.com/embed/mrezdDJ71Hs"
     ],
     "language": "zho",
     "country": "cn",

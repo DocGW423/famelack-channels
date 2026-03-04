@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fw06esRvbog"
+      "https://www.youtube-nocookie.com/embed/q79qDaT5lng"
     ],
     "language": "jpn",
     "country": "jp",
@@ -58,6 +58,17 @@
     "nanoid": "BKprRPWc9ugskl",
     "name": "Backstage",
     "iptv_urls": [
+      "https://d2ah48mnofquik.cloudfront.net/Backstage.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BKprRPWc9ugskl",
+    "name": "Backstage",
+    "iptv_urls": [
       "https://fuse-backstage-xumo.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -70,6 +81,7 @@
     "name": "BBC Earth",
     "iptv_urls": [
       "https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8",
+      "https://pb-zjy36qhp8e8cz.akamaized.net/BBC_Earth_US.m3u8",
       "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
       "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
     ],
@@ -102,6 +114,17 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zV7a20HW4WTHRY",
+    "name": "BritBox Mysteries",
+    "iptv_urls": [
+      "https://pb-ippotemhtglhp.akamaized.net/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "zV7a20HW4WTHRY",
@@ -184,10 +207,32 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sm6jSJZU2R13Dv",
+    "name": "Court TV",
+    "iptv_urls": [
+      "https://pb-2rv53xe17yzvq.akamaized.net/Court_TV_US.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "LGhrHQJDBR90AW",
     "name": "Crime360",
     "iptv_urls": [
       "https://live-manifest.production-public.tubi.io/live/d65f6697-9fd2-477f-a56d-26cea1b939b7/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yN0sLbfA3r2bT8",
+    "name": "DangerTV",
+    "iptv_urls": [
+      "https://dk0n7jh428tzj.cloudfront.net/v1/dangertv/samsungheadend_us/latest/main/hls/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -208,10 +253,22 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "jAekBDqlLERFF0",
+    "name": "Dateline 24/7",
+    "iptv_urls": [
+      "https://pb-cpf6bqkmt2btj.akamaized.net/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
     "nanoid": "6gbtius213QaZ4",
     "name": "Documentary+",
     "iptv_urls": [
-      "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8"
+      "https://ef79b15c8c7c46c7a9de9d33001dbd07.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-859-DOCUMENTARYPLUS-DOCUMENTARYPLUS/mt/documentaryplus/859/hls/master/playlist.m3u8",
+      "https://d1kx9y4yhe8h6h.cloudfront.net/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -238,6 +295,17 @@
     "youtube_urls": [],
     "language": "deu",
     "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nFh3xqtwlLRiFW",
+    "name": "Ecovisión",
+    "iptv_urls": [
+      "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
     "isGeoBlocked": false
   },
   {
@@ -331,6 +399,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "29K3gt1fuyfoWN",
+    "name": "Lucky Dog",
+    "iptv_urls": [
+      "https://d3j95sejv6mybj.cloudfront.net/Lucky_Dog.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2IhVNnNGaDMY0V",
     "name": "MagellanTV Now",
     "iptv_urls": [
@@ -340,6 +419,17 @@
     "language": "eng",
     "country": "us",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CqXhOvAoEWsiJe",
+    "name": "MagellanTV TV Now",
+    "iptv_urls": [
+      "https://pb-5evqkeieu3o6d.akamaized.net/Magellan_TV_Now.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "us",
+    "isGeoBlocked": true
   },
   {
     "nanoid": "kfNMC8gMIZfcGp",
@@ -383,6 +473,17 @@
     "youtube_urls": [],
     "language": "fas",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "C9r0nQTewOjHW3",
+    "name": "RL PRO TV",
+    "iptv_urls": [
+      "https://stream.berosat.live:19360/rlpro-tv/rlpro-tv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "cd",
     "isGeoBlocked": false
   },
   {
@@ -451,6 +552,17 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NpJ5K3Avxx4otV",
+    "name": "WildEarth",
+    "iptv_urls": [
+      "https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "za",
     "isGeoBlocked": false
   },
   {

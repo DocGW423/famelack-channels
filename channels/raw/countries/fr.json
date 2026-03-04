@@ -69,17 +69,6 @@
     "nanoid": "MC6eofj34HPSlv",
     "name": "Africanews",
     "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8?ads.vf=OXCCriJ8fFq"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "MC6eofj34HPSlv",
-    "name": "Africanews",
-    "iptv_urls": [
       "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOTU0NDAyODQtOTU0My00Yzc2LThmZjQtNDRhY2YwYmQxYTYwIiwibWt0IjoicGwiLCJjaCI6NjYwNiwicHRmIjo1fQ==/26036/africanews-en.m3u8"
     ],
     "youtube_urls": [],
@@ -453,17 +442,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "CNnWdppUulCf6g",
-    "name": "Euronews Español",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8?ads.vf=DLlKFAN37a8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "GeBJL1efFzyzZ1",
     "name": "Euronews Français",
     "iptv_urls": [],
@@ -570,6 +548,17 @@
     ],
     "youtube_urls": [],
     "language": "fra",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hN2lvdly5DX2ya",
+    "name": "FashionTV Secrets",
+    "iptv_urls": [
+      "https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_APPNAME=[ADS.APP_NAME]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_CCPA=[ADS.US_PRIVACY]&AV_CLIENT_SECTION=ftv_secrets&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_CAT=IAB7&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_EPISODE=&AV_CONTENT_GENRE=fashion+and+lifestyle&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_KEYWORDS=&AV_CONTENT_LANGUAGE=en&AV_CONTENT_LENGTH=&AV_CONTENT_NETWORK=&AV_CONTENT_PROVIDER=FTV&AV_CONTENT_RATING=R&AV_CONTENT_SEASON=&AV_CONTENT_SERIES=&AV_CONTENT_TITLE=&AV_CONTENT_URL=&AV_DNT=[ADS.DNT]&AV_GDPR=[ADS.GDPR]&AV_HEIGHT=[ADS.H]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_OSVERS=[ADS.DEVICE_OSV]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_VAUTH=[ADS.VAUTH]&AV_WIDTH=[ADS.W]&Content_Id=[ADS.ADS_CONTENTID]&ads.vidaa_ads_param=1191723366&cb=[CACHEBUSTER]&content_channel_name=ftv+-fashiontv+Secrets&content_livestream=1"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -936,17 +925,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "bpkqoQyazekjjY",
-    "name": "Mytime Movies",
-    "iptv_urls": [
-      "https://mytimefrance-rakuten-samsung.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hDKihfnR1gIzAi",
     "name": "Myzen TV",
     "iptv_urls": [
@@ -965,17 +943,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "tWwmPx6ovJPksa",
-    "name": "Novo Comedy",
-    "iptv_urls": [
-      "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/novo-comedy/video.m3u8?ads.vf=WY7qC3DIF58"
-    ],
-    "youtube_urls": [],
-    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1130,6 +1097,17 @@
     ],
     "youtube_urls": [],
     "language": "fas",
+    "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4NyFCBjkWuIpW6",
+    "name": "Pocoyo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/kXnrinWJ0Is"
+    ],
+    "language": "fra",
     "country": "fr",
     "isGeoBlocked": false
   },
@@ -1311,17 +1289,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "e2QKMdwgfK4Vxo",
-    "name": "Simon Super Lapin",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Uru1QVJcnlA"
-    ],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "f1Z2REVZIJr4vr",
     "name": "Sony One Blacklist",
     "iptv_urls": [
@@ -1383,17 +1350,6 @@
       "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "fra",
-    "country": "fr",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PNF9zodERQr3Zm",
-    "name": "SQOOL TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ce7h5tus_Lk"
-    ],
     "language": "fra",
     "country": "fr",
     "isGeoBlocked": false

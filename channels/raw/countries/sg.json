@@ -178,5 +178,16 @@
     "language": "eng",
     "country": "sg",
     "isGeoBlocked": false
+  },
+  {
+    "nanoid": "y1OGn4C9pf6ycf",
+    "name": "ZooMoo",
+    "iptv_urls": [
+      "https://d1bpufuvfayfg8.cloudfront.net/ZooMoo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "sg",
+    "isGeoBlocked": false
   }
 ]
