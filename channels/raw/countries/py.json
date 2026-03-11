@@ -11,6 +11,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "MC0Hkz9sP3iFPv",
+    "name": "Almaya TV",
+    "iptv_urls": [
+      "https://video.hostingcaaguazu.com:19360/almayatv/almayatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "py",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "JAreuKNijuO7ug",
     "name": "Bruno Masi TV",
     "iptv_urls": [

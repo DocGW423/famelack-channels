@@ -132,6 +132,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mbc3tMycOFDjGt",
+    "name": "Canal 2 de Ushuaia",
+    "iptv_urls": [
+      "https://nd106.republicaservers.com:4433/hls/c6611/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "dP9dVYSF14RSuM",
     "name": "Canal 2 Misiones",
     "iptv_urls": [
@@ -302,7 +313,7 @@
     "name": "Canal 8 San Juan",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/Ks_s6yHfBHc"
+      "https://www.youtube-nocookie.com/embed/xfijWKCA-do"
     ],
     "language": "spa",
     "country": "ar",
@@ -400,11 +411,10 @@
     "nanoid": "IKwTslDp6GIv1l",
     "name": "Canal 26",
     "iptv_urls": [
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8",
-      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+      "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/main.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/rwnz1KIHTh8"
+      "https://www.youtube-nocookie.com/embed/hcg2L9yg4Bk"
     ],
     "language": "spa",
     "country": "ar",
@@ -483,6 +493,28 @@
     "name": "Canal Orbe 21",
     "iptv_urls": [
       "https://stream.arcast.net:4443/canal21/ngrp:canal21_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rexjgi9hzCbRd0",
+    "name": "Canal Provincial",
+    "iptv_urls": [
+      "https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ar",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tZLaG8MHkNY9P0",
+    "name": "Canal Santa María",
+    "iptv_urls": [
+      "https://streaming.telered.com.ar/santa-maria/streaming/mystream.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -593,7 +625,7 @@
     "name": "El Observador 107.9",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/oksbzHygIwo"
+      "https://www.youtube-nocookie.com/embed/FmyKynMr7fE"
     ],
     "language": "spa",
     "country": "ar",
@@ -660,7 +692,7 @@
     "name": "El Tres TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/i-h6Z30a0O4"
+      "https://www.youtube-nocookie.com/embed/eWEAtGK0DfE"
     ],
     "language": "spa",
     "country": "ar",
@@ -976,10 +1008,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "AWVSaRt2GpdnGp",
-    "name": "TV Maná Argentina",
+    "nanoid": "eeCHy3sBgMLKFi",
+    "name": "TV Publica",
     "iptv_urls": [
-      "https://w2.manasat.com/tvmana-ar/smil:tvmana-ar.smil/playlist.m3u8"
+      "https://ola1.com.ar/tvp/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -1047,7 +1079,7 @@
     "name": "Urbana Play 104.3 FM",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/3pjr888xDw8"
+      "https://www.youtube-nocookie.com/embed/dW19Jyg2s_k"
     ],
     "language": "spa",
     "country": "ar",

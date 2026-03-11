@@ -121,17 +121,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "5OROd5MAKjXezh",
-    "name": "CTB Perth Movies",
-    "iptv_urls": [
-      "https://movies.ctbperth.net.au/hls/stream.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "au",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fKperBii2EQlSc",
     "name": "CTB Perth News",
     "iptv_urls": [
@@ -169,7 +158,7 @@
     "name": "Force Thirteen Earthquakes",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/62qNMQiP40s"
+      "https://www.youtube-nocookie.com/embed/OUtXlc1tyPM"
     ],
     "language": "eng",
     "country": "au",
@@ -301,6 +290,17 @@
     "name": "RCM",
     "iptv_urls": [
       "https://samsungau-rialtosamsungaustralia-al2rg.amagi.tv/playlist/samsungau-rialtosamsungaustralia/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "au",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rh2TMvjYLEWCNX",
+    "name": "Real Crime",
+    "iptv_urls": [
+      "https://lds-realcrime-samsungau.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "",

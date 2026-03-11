@@ -55,6 +55,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "JNkGygM92uxejo",
+    "name": "Canal 15 El Zamorano",
+    "iptv_urls": [
+      "https://vdo.tecnoservix.stream:3007/live/canal15zamoranolive.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "sv",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "2JuIWNzpBvexFE",
     "name": "Canal 26 TV IAP",
     "iptv_urls": [

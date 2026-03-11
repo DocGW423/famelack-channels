@@ -22,6 +22,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "AeG4E88wj1aN3z",
+    "name": "Afarin TV",
+    "iptv_urls": [
+      "https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CM6FuW5WtTCo5H",
     "name": "Al Rasheed TV",
     "iptv_urls": [
@@ -103,7 +114,7 @@
     "name": "Channel 8",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/fv0c8BYuyfk"
+      "https://www.youtube-nocookie.com/embed/NsfSf9JxrTM"
     ],
     "language": "kur",
     "country": "iq",

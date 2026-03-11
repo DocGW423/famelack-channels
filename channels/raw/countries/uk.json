@@ -351,17 +351,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "vFuB4amnCAnzu2",
-    "name": "Crafter's TV",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/0gMGB45psvs"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "bQZCnoP3gYxqdY",
     "name": "Cruise1st TV",
     "iptv_urls": [],
@@ -1144,17 +1133,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Kfvf3u3DJLtcM5",
-    "name": "Shaun the Sheep Official",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U4mJAvhBrGU"
-    ],
-    "language": "eng",
-    "country": "uk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "2UurVFYPvprdL8",
     "name": "Sky News",
     "iptv_urls": [],
@@ -1456,13 +1434,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "B0N3YLVGTZmUxD",
-    "name": "World War TV",
+    "nanoid": "M9HwvmHmrMZElD",
+    "name": "Wonder",
     "iptv_urls": [
-      "https://aenetworks-worldwartv-rakuten.amagi.tv/playlist.m3u8"
+      "https://lds-wonder-plex.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
-    "language": "",
+    "language": "eng",
     "country": "uk",
     "isGeoBlocked": false
   }

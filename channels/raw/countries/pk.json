@@ -33,6 +33,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "BG3WWAjyFpp31n",
+    "name": "ABN News",
+    "iptv_urls": [
+      "https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "sF8x4UncscLIdo",
     "name": "Aik News",
     "iptv_urls": [
@@ -59,7 +70,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/pN_ho8B5gdc"
+      "https://www.youtube-nocookie.com/embed/ycDk7_Key5U"
     ],
     "language": "sd",
     "country": "pk",
@@ -375,6 +386,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "C3sLhVrqf1lZz5",
+    "name": "KTN News",
+    "iptv_urls": [
+      "https://vodzong.mjunoon.tv:8087/streamtest/KTNNews-151/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "snd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "LzPSde42sWQjeB",
     "name": "KTN NEWS TV",
     "iptv_urls": [],
@@ -432,6 +454,28 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "S1n88rMuz1tEg9",
+    "name": "Neo News",
+    "iptv_urls": [
+      "https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dn8J2Ex2jjyZWp",
+    "name": "News One",
+    "iptv_urls": [
+      "https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "qYVU4HXVDlQp2P",
     "name": "PMI TV",
     "iptv_urls": [
@@ -477,6 +521,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HxH54ypKcC1Xvq",
+    "name": "Samaa TV",
+    "iptv_urls": [
+      "https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "urd",
+    "country": "pk",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8DlMg3mAZWbimm",
     "name": "SAMAA TV",
     "iptv_urls": [],
@@ -492,7 +547,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/-YJPkdTlFEE"
+      "https://www.youtube-nocookie.com/embed/1s8inXwwC0E"
     ],
     "language": "sd",
     "country": "pk",
@@ -525,7 +580,7 @@
     "name": "VSH NEWS",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/HSyifERNid4"
+      "https://www.youtube-nocookie.com/embed/u3_YnXzV6Rg"
     ],
     "language": "urd",
     "country": "pk",

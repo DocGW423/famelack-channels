@@ -58,7 +58,6 @@
     "nanoid": "mIBXDjfzsNrIT3",
     "name": "12TV Alicante",
     "iptv_urls": [
-      "https://cloud.fastchannel.es/mic/manifiest/hls/12tv/12tv.m3u8",
       "https://cloud.streamingconnect.tv/hls/12tv/12tv2.m3u8"
     ],
     "youtube_urls": [],
@@ -635,6 +634,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "w8nJcI9HkWg8Yr",
+    "name": "Empordà TV",
+    "iptv_urls": [
+      "https://video3.lhdserver.es/empordatv2/live.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "cat",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ev5jam8gTwJugh",
     "name": "Estepona Televisión",
     "iptv_urls": [
@@ -734,6 +744,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "HwhpJMBxrNJdLl",
+    "name": "Guada TV",
+    "iptv_urls": [
+      "https://cloud.streamingconnect.tv/hls/guadatv/guadatv.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -785,17 +806,6 @@
     ],
     "youtube_urls": [],
     "language": "spa",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YDIi3VBX7D7fKC",
-    "name": "La 2 Catalunya",
-    "iptv_urls": [
-      "https://ztnr.rtve.es/ztnr/3987218.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "cat",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1130,6 +1140,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "pegM9YYgQxLOsZ",
+    "name": "Rakuten TV Action Movies UK",
+    "iptv_urls": [
+      "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "SqdL0M66Q2lMl2",
     "name": "Rakuten TV Cine Español",
     "iptv_urls": [
@@ -1163,6 +1184,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "3rUfGzY2t9RJC4",
+    "name": "Rakuten TV Comedy Movies Italy",
+    "iptv_urls": [
+      "https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "lpsuXeysMRBpVO",
     "name": "Rakuten TV Comedy Movies Spain",
     "iptv_urls": [
@@ -1170,6 +1202,28 @@
     ],
     "youtube_urls": [],
     "language": "spa",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t7k18gf1UBscLd",
+    "name": "Rakuten TV Comedy Movies UK",
+    "iptv_urls": [
+      "https://9be783d652cd4b099cf63e1dc134c4a3.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6181/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "eng",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cWeIWfx3JTfA50",
+    "name": "Rakuten TV Crime Series Spain",
+    "iptv_urls": [
+      "https://4ac0fe739f05408abf89ce151aced344.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6220/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1192,6 +1246,17 @@
     ],
     "youtube_urls": [],
     "language": "deu",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CkXWZHW3kHwT7c",
+    "name": "Rakuten TV Drama Movies Italy",
+    "iptv_urls": [
+      "https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ita",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1324,6 +1389,17 @@
     ],
     "youtube_urls": [],
     "language": "fin",
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "d85uJsQx5ZxBLM",
+    "name": "Rakuten TV Top Movies Germany",
+    "iptv_urls": [
+      "https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "deu",
     "country": "es",
     "isGeoBlocked": false
   },
@@ -1577,17 +1653,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "es",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "yAvkQDCoQRxCiQ",
-    "name": "Trece TV",
-    "iptv_urls": [
-      "https://play.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
     "country": "es",
     "isGeoBlocked": false
   },

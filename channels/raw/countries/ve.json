@@ -99,10 +99,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "EBZkwFw2avmA6X",
-    "name": "Fortuna TV",
+    "nanoid": "hYaEiBkFdAkiAd",
+    "name": "GlobalTV",
     "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3355/live/fortunatvlive.m3u8"
+      "https://streamtv.intervenhosting.net:3179/live/globaltvlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -287,17 +287,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hWg7qzmsLufJ67",
-    "name": "Telecentro",
-    "iptv_urls": [
-      "https://streamtv.intervenhosting.net:3161/live/telecentrolive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "ve",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hWlY6DCrbQlbH1",
     "name": "Telecolor",
     "iptv_urls": [
@@ -401,6 +390,17 @@
     "name": "TV Oasis Monay",
     "iptv_urls": [
       "https://live20.bozztv.com/akamaissh101/ssh101/oasistv123/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ve",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XdOMLij5yy08uC",
+    "name": "TVM para ti",
+    "iptv_urls": [
+      "https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

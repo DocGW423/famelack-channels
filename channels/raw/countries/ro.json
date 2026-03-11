@@ -209,6 +209,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "E9smyEh0BaQpif",
+    "name": "JOB TV",
+    "iptv_urls": [
+      "https://jobtvserver.eu/hls/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ron",
+    "country": "ro",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "H8lAJKYghBWOpW",
     "name": "Kanal D",
     "iptv_urls": [
@@ -576,7 +587,7 @@
     "name": "Z-TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/O_eEs0GS0LA"
+      "https://www.youtube-nocookie.com/embed/BBsmpnxp-RU"
     ],
     "language": "ron",
     "country": "ro",

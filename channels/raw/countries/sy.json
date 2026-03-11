@@ -22,24 +22,13 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nJ79SnxhmuyaOZ",
-    "name": "Damascus Radio",
-    "iptv_urls": [
-      "https://radiodamascus.ortas.live/RDimshq/RDimshqLive/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ara",
-    "country": "sy",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "Zb4yx0Hhhjqp7h",
     "name": "Halab Today TV",
     "iptv_urls": [
       "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
     ],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/z_uebjAuK6w"
+      "https://www.youtube-nocookie.com/embed/m32aLwl9epc"
     ],
     "language": "ara",
     "country": "sy",

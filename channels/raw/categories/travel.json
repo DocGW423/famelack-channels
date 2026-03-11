@@ -231,17 +231,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "4IxBqGTmogAaSR",
-    "name": "Teletur",
-    "iptv_urls": [
-      "https://fox.hostlagarto.com:8081/teleturtv/tracks-v1a1/mono.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "do",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fwm1YJJu2dW30c",
     "name": "Travel TV",
     "iptv_urls": [
@@ -283,17 +272,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "mx",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "1ONog0eu0K0fg5",
-    "name": "TV Sayohi",
-    "iptv_urls": [
-      "https://live.teleradiocom.tj/16/3m.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tgk",
-    "country": "tj",
     "isGeoBlocked": false
   },
   {

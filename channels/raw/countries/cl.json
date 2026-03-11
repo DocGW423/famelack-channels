@@ -180,7 +180,7 @@
     "name": "Chilevisión",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/DGlmLB1MM84"
+      "https://www.youtube-nocookie.com/embed/yC5knrTzFE8"
     ],
     "language": "spa",
     "country": "cl",
@@ -202,7 +202,7 @@
     "name": "CHV Noticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/RGMwlzpj5Hg"
+      "https://www.youtube-nocookie.com/embed/gC-w7WwI3wA"
     ],
     "language": "spa",
     "country": "cl",
@@ -286,6 +286,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "mboCNwiMaOzg2v",
+    "name": "Girovisual",
+    "iptv_urls": [
+      "https://unlimited1-cl-isp.dps.live/girovisual2/girovisual2.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "nG7lFRDfSfbs7Z",
     "name": "Holvoet TV (Copiapó)",
     "iptv_urls": [
@@ -345,7 +356,7 @@
     "name": "Meganoticias",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/4IKmFtfw9iY"
+      "https://www.youtube-nocookie.com/embed/XUe-zKUlIKI"
     ],
     "language": "spa",
     "country": "cl",
@@ -491,7 +502,7 @@
     "name": "T13",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/UextN8KWiqA"
+      "https://www.youtube-nocookie.com/embed/Jld1QKp2kxc"
     ],
     "language": "spa",
     "country": "cl",
@@ -678,8 +689,7 @@
     "nanoid": "fsG9WCXeLX2m3u",
     "name": "Universidad Autónoma Temuco (UATV)",
     "iptv_urls": [
-      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8",
-      "https://unlimited6-cl.dps.live/uatv/uatv.smil/playlist.m3u8"
+      "https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

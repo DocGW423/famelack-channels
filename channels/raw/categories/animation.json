@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "fruS79xWb73ha2",
+    "name": "Barney the Dinosaur",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/K1PagL4WZ1E"
+    ],
+    "language": "eng",
+    "country": "ca",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "3zs2UMlidApgeb",
     "name": "Blues TV",
     "iptv_urls": [
@@ -460,17 +471,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Kfvf3u3DJLtcM5",
-    "name": "Shaun the Sheep Official",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/U4mJAvhBrGU"
-    ],
-    "language": "eng",
-    "country": "uk",
     "isGeoBlocked": false
   },
   {

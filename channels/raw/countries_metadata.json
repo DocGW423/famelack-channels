@@ -927,7 +927,7 @@
     "country": "Niger",
     "capital": "Niamey",
     "timeZone": "Africa/Niamey",
-    "hasChannels": false
+    "hasChannels": true
   },
   "NF": {
     "country": "Norfolk Island",
@@ -1263,7 +1263,7 @@
     "country": "Tajikistan",
     "capital": "Dushanbe",
     "timeZone": "Asia/Dushanbe",
-    "hasChannels": true
+    "hasChannels": false
   },
   "TK": {
     "country": "Tokelau",

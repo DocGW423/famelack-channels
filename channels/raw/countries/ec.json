@@ -319,6 +319,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "uyqGhNahms3fZ0",
+    "name": "Multicanal Catamayo",
+    "iptv_urls": [
+      "https://multicanal.streamseguro.com:5443/LiveApp/streams/streaming.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "CR0jUhLqfPaEmf",
     "name": "Nortvisión",
     "iptv_urls": [
