@@ -44,6 +44,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "EgspbzPRaIJYXi",
+    "name": "ADO TV",
+    "iptv_urls": [
+      "https://strhls.streamakaci.tv/ortb/ortb2-multi/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "fra",
+    "country": "bj",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ddrr8smWgDPaNo",
     "name": "Afarin Baxcha",
     "iptv_urls": [
@@ -945,7 +956,7 @@
     "name": "Peppa Pig Brasil",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/2gkfSk7Bzg8"
+      "https://www.youtube-nocookie.com/embed/06_bqfcyNnQ"
     ],
     "language": "por",
     "country": "br",
@@ -1015,6 +1026,17 @@
     ],
     "language": "jpn",
     "country": "jp",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KVsjP0kIbz2vIV",
+    "name": "QTV-6",
+    "iptv_urls": [
+      "https://video10.qtv.com.cn/drm/qtv6at/manifest.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "zho",
+    "country": "cn",
     "isGeoBlocked": false
   },
   {
@@ -1396,6 +1418,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "5tnyJyKLhuRZfm",
+    "name": "ZB Cartoon",
+    "iptv_urls": [
+      "https://server.zillarbarta.com/zbcatun/video.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ben",
+    "country": "in",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "kz1QrxbntvR2ns",
     "name": "Zig & Sharko",
     "iptv_urls": [],
@@ -1502,7 +1535,7 @@
     "name": "小猪佩奇 中文官方 - Peppa Pig",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/B_VvmuvPjwA"
+      "https://www.youtube-nocookie.com/embed/YGplde_srnA"
     ],
     "language": "zho",
     "country": "cn",

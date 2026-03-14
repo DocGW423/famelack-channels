@@ -155,17 +155,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "XHxGpxMeodxqTd",
-    "name": "C Malayalam TV",
-    "iptv_urls": [
-      "https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "mal",
-    "country": "ca",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "QtyIEE9DZnKUAu",
     "name": "Canal 17 RTVD",
     "iptv_urls": [
@@ -490,6 +479,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "duSXiulPj9T5qC",
+    "name": "Guaymate TV",
+    "iptv_urls": [
+      "https://live20.bozztv.com/akamaissh101/ssh101/guaymatetv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "do",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "waVMWHYlkj0xMU",
     "name": "Hamaika Telebista",
     "iptv_urls": [
@@ -755,17 +755,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "D7CJtpvcn5aeRw",
-    "name": "Nigbati",
-    "iptv_urls": [
-      "https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_023/Stream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ng",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "n3MPyyNxowDoVf",
     "name": "Odisha TV",
     "iptv_urls": [
@@ -807,17 +796,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RiifWdXjWLsqP4",
-    "name": "ORF III HD",
-    "iptv_urls": [
-      "https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
-    "country": "at",
     "isGeoBlocked": false
   },
   {
@@ -1075,17 +1053,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "qAUF947AFuFdtH",
-    "name": "Vĩnh Long TV5",
-    "iptv_urls": [
-      "https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "",
-    "country": "vn",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "oNFu9DPCaWFslY",
     "name": "Yemen Shabab Channel",
     "iptv_urls": [
@@ -1114,17 +1081,6 @@
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "SouHlOn23CzTQS",
-    "name": "НТВ Мир",
-    "iptv_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

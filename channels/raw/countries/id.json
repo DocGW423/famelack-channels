@@ -33,6 +33,18 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "TKjF9Dh5jBDraW",
+    "name": "Ashiil TV",
+    "iptv_urls": [
+      "https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8",
+      "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "wgCHFkD8F6PNpc",
     "name": "Astha TV",
     "iptv_urls": [
@@ -121,14 +133,23 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "lV8zHLVhKEPFpW",
+    "name": "BRTV",
+    "iptv_urls": [
+      "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "XPSVuVs1TyQFaN",
     "name": "BTV",
     "iptv_urls": [
       "https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8"
     ],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/N-UGU17tJss"
-    ],
+    "youtube_urls": [],
     "language": "ind",
     "country": "id",
     "isGeoBlocked": false
@@ -171,6 +192,17 @@
     "name": "Davika TV",
     "iptv_urls": [
       "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ksjOnBMCR8R7y0",
+    "name": "Dhamma TV",
+    "iptv_urls": [
+      "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -256,6 +288,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "iKRL8braCsStZJ",
+    "name": "Huma Betang TV",
+    "iptv_urls": [
+      "https://v3.siar.us/humabetangtv/live/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Hae4Rh59QFhZLW",
     "name": "I Am Channel",
     "iptv_urls": [
@@ -293,6 +336,17 @@
     "name": "Jogja TV",
     "iptv_urls": [
       "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ootv8lcMdtj5Da",
+    "name": "Kilisuci TV",
+    "iptv_urls": [
+      "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",
@@ -381,7 +435,7 @@
     "name": "Marhaban TV",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/EcWXCzIdGWY"
+      "https://www.youtube-nocookie.com/embed/i13-bLr_teA"
     ],
     "language": "ind",
     "country": "id",
@@ -675,6 +729,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "eQt3qfpQWLo9FO",
+    "name": "Serambinews",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/o3BdcsMdjjo"
+    ],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "pJu6TwMXSbyJfF",
     "name": "SMTV",
     "iptv_urls": [
@@ -929,6 +994,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "4rgiWj82tXQkHf",
+    "name": "TVRI Gorontalo",
+    "iptv_urls": [
+      "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "ind",
+    "country": "id",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tK8jLP45RZVKpL",
     "name": "TVRI Jakarta (576i)",
     "iptv_urls": [
@@ -1076,17 +1152,6 @@
     "name": "TVRI Nusa Tenggara Barat",
     "iptv_urls": [
       "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ind",
-    "country": "id",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "cOrygxH7QFbjGa",
-    "name": "TVRI Papua",
-    "iptv_urls": [
-      "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8"
     ],
     "youtube_urls": [],
     "language": "ind",

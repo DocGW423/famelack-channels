@@ -102,8 +102,7 @@
     "nanoid": "Oxstp5zvFaS9ZH",
     "name": "Retrox TV",
     "iptv_urls": [
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8",
-      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/playlist.m3u8"
+      "https://live20.bozztv.com/giatv/giatv-TVCHANNEL/TVCHANNEL/chunks.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -118,6 +117,17 @@
       "https://www.youtube-nocookie.com/embed/OSbfim9NrBA"
     ],
     "language": "eng",
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i3xr0qWNj713tk",
+    "name": "Shout! Studios: Bonanza (Español)",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/vn5tNXYPAKw"
+    ],
+    "language": "spa",
     "country": "us",
     "isGeoBlocked": false
   },
@@ -372,17 +382,6 @@
     "youtube_urls": [],
     "language": "spa",
     "country": "ar",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "jznTuWIBt2HrkT",
-    "name": "ZB Cinema",
-    "iptv_urls": [
-      "https://server.zillarbarta.com/ZBCINEMA/index.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ben",
-    "country": "in",
     "isGeoBlocked": false
   },
   {

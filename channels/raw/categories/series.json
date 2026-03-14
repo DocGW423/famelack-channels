@@ -272,17 +272,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "WWqClKgm7DSO3U",
-    "name": "Donna TV",
-    "iptv_urls": [
-      "https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "ita",
-    "country": "it",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "COFZbnjrkjQq8b",
     "name": "Duck Dynasty",
     "iptv_urls": [
@@ -325,6 +314,17 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GOMdLvvyu3y5ss",
+    "name": "GZT",
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
     "isGeoBlocked": false
   },
   {
@@ -615,7 +615,7 @@
     "name": "TokuSHOUTsu: Kamen Rider",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/irPN-y3J1mg"
+      "https://www.youtube-nocookie.com/embed/xpJOJh9GQNE"
     ],
     "language": "jpn",
     "country": "us",
@@ -761,17 +761,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/ozuhPITB_4g"
     ],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "N0XEtBmZuJSvlx",
-    "name": "Сити Эдем ТелеНовелла",
-    "iptv_urls": [
-      "https://cityeden.catcast.tv/content/46209/index.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "rus",
     "country": "ru",
     "isGeoBlocked": false

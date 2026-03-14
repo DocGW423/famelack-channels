@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "9jkb1tHOSl1q2X",
+    "name": "Aysen TV",
+    "iptv_urls": [
+      "https://v1.tustreaming.cl/aysentv/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "ObtiKhy4c7FM1e",
     "name": "Campus TV (Talca)",
     "iptv_urls": [
@@ -160,17 +171,6 @@
       "https://v2.tustreaming.cl/chilechannel/index.m3u8"
     ],
     "youtube_urls": [],
-    "language": "spa",
-    "country": "cl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "fJikHBvZcviret",
-    "name": "Chilevisión",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/yFOU2ouiyPw"
-    ],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -308,10 +308,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "O37bey4UFDgp1Q",
-    "name": "Latina Network TV (576i)",
+    "nanoid": "LtuGw8CUEvQRPo",
+    "name": "La Popular TV",
     "iptv_urls": [
-      "https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8"
+      "https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",
@@ -319,12 +319,12 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "ubJBXevTlFFMsm",
-    "name": "Meganoticias",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/04k3CrQRWUo"
+    "nanoid": "O37bey4UFDgp1Q",
+    "name": "Latina Network TV (576i)",
+    "iptv_urls": [
+      "https://live-server.mivideo.pro:8081/latinavzla/tracks-v1a1/mono.m3u8"
     ],
+    "youtube_urls": [],
     "language": "spa",
     "country": "cl",
     "isGeoBlocked": false
@@ -345,6 +345,17 @@
     "name": "NCTV",
     "iptv_urls": [
       "https://pantera1-100gb-cl-movistar.dps.live/nctv/nctv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dmSkx9ZqRcdIYu",
+    "name": "Nublevision",
+    "iptv_urls": [
+      "https://tv.arkeo.cl:1936/nublevision/nublevision/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Q3qj0YJPujBhJs",
+    "name": "Channel 8",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/FZQW8MgfmJU"
+    ],
+    "language": "kur",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "MIpBDCxySOyKyM",
     "name": "Dijlah TV",
     "iptv_urls": [
@@ -180,7 +191,7 @@
     "name": "Kurdistan24",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/JTFfUv3F2uc"
+      "https://www.youtube-nocookie.com/embed/yZ7eZ8H_a1I"
     ],
     "language": "kur",
     "country": "iq",
@@ -191,6 +202,17 @@
     "name": "KurdMax Music",
     "iptv_urls": [
       "https://6476e46b58f91.streamlock.net/music/MUSIC2402/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "kur",
+    "country": "iq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RzX8WqJgd5GWa8",
+    "name": "KurdMax Show",
+    "iptv_urls": [
+      "https://6476e46b58f91.streamlock.net/liveTrans/SHOWS123/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "kur",

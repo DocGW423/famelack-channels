@@ -802,6 +802,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "nSKKagLIpNXooQ",
+    "name": "Naruto Germany",
+    "iptv_urls": [
+      "https://palatinmedia-naruto-rakuten.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "",
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "Z6guN3S2lbqSQy",
     "name": "NDR Fernsehen International",
     "iptv_urls": [
@@ -1308,17 +1319,6 @@
     ],
     "youtube_urls": [],
     "language": "",
-    "country": "de",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "nUHCgjRUR5TBtm",
-    "name": "Studio 47",
-    "iptv_urls": [
-      "https://h057.video-stream-hosting.de/studio47-live/_definst_/mp4:livestream/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "deu",
     "country": "de",
     "isGeoBlocked": false
   },

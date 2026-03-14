@@ -23,6 +23,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "sQrljGUpW3a5Wd",
+    "name": "15+ Music",
+    "iptv_urls": [
+      "https://live.15plusmg.ru/memfs/ce3366b1-bf25-4e24-96bb-1adf0d44bd3d.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "8KkzMzj0gbrJEI",
     "name": "360°",
     "iptv_urls": [
@@ -171,6 +182,17 @@
     "name": "Leomax 24",
     "iptv_urls": [
       "https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Bjg6c0jyyLRWJ",
+    "name": "NSC+",
+    "iptv_urls": [
+      "https://live.15plusmg.ru/memfs/5a03fc7a-8417-4874-b56f-91b8aeba1210.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -482,17 +504,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "jdtDDFx09GQYAn",
-    "name": "Дума ТВ",
-    "iptv_urls": [
-      "https://dumatv.iptv2022.com/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "qEiTrcvSLIUuPW",
     "name": "Евразия (Орск)",
     "iptv_urls": [
@@ -515,23 +526,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "OI13Nk31lvozG8",
-    "name": "За!ТВ",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/25.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "0aNqMqNfvYuTeN",
     "name": "Звезда",
     "iptv_urls": [
       "https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8",
       "https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8",
-      "https://streaming.televizor-24-tochka.ru/live/748.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -642,17 +641,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "cYDuHiobRRgBu3",
-    "name": "Крым 24",
-    "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/28.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "gfChDHyfiWZR2Q",
     "name": "Кубань 24",
     "iptv_urls": [
@@ -687,17 +675,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "K7MkhCrOepYy6F",
-    "name": "Легендарный 24",
-    "iptv_urls": [
-      "https://sevas.1tvcrimea.ru/legendarniy24.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "ODMzEFguijtAQv",
     "name": "Лен ТВ 24",
     "iptv_urls": [
@@ -713,17 +690,6 @@
     "name": "Магнат ТВ",
     "iptv_urls": [
       "https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "PZBt17abf1Uupk",
-    "name": "Миллет",
-    "iptv_urls": [
-      "https://live1.1tvcrimea.ru/milletlive.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -767,6 +733,7 @@
     "nanoid": "V76m2HETkVONkL",
     "name": "МузТВ",
     "iptv_urls": [
+      "https://streaming.televizor-24-tochka.ru/live/618.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -920,17 +887,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "SouHlOn23CzTQS",
-    "name": "НТВ Мир",
-    "iptv_urls": [
-      "https://streaming.thestream.cyou/live/213.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "v6hADKFPM0Ioy0",
     "name": "НТК 21 (Биробиджан)",
     "iptv_urls": [
@@ -1045,17 +1001,6 @@
     "name": "Первый канал Европа",
     "iptv_urls": [
       "https://streaming.thestream.cyou/live/210.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Id2JnffsEY0WAk",
-    "name": "Первый Крымский",
-    "iptv_urls": [
-      "https://live1.1tvcrimea.ru/1tvcrimea.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1190,7 +1135,6 @@
     "nanoid": "kUjDpkaxsNrqT9",
     "name": "Россия 24",
     "iptv_urls": [
-      "https://streaming.televizor-24-tochka.ru/live/30.m3u8",
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8"
     ],
     "youtube_urls": [],
@@ -1276,10 +1220,10 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "9KRpqyqyinbL9C",
-    "name": "Симферополь 24",
+    "nanoid": "v5sPbs1KXBP4Nn",
+    "name": "Сити Эдем Meditation Music",
     "iptv_urls": [
-      "https://simf.1tvcrimea.ru/simferopol24.m3u8"
+      "https://cityeden.catcast.tv/content/47410/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1287,10 +1231,21 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "N0XEtBmZuJSvlx",
-    "name": "Сити Эдем ТелеНовелла",
+    "nanoid": "EphM4GTVAEHRzh",
+    "name": "Сити Эдем Бирма Play",
     "iptv_urls": [
-      "https://cityeden.catcast.tv/content/46209/index.m3u8"
+      "https://cityeden.catcast.tv/content/34364/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "rus",
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kmnCkTtdi4cLR8",
+    "name": "Сити Эдем МедЗдрав",
+    "iptv_urls": [
+      "https://cityeden.catcast.tv/content/47519/index.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",
@@ -1547,18 +1502,6 @@
     "name": "ТНТ4",
     "iptv_urls": [
       "https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "rus",
-    "country": "ru",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "AIHRA4w3vdxLfI",
-    "name": "Толк HD",
-    "iptv_urls": [
-      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8",
-      "https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "rus",

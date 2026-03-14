@@ -316,17 +316,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "fG091FxoA2NCwZ",
-    "name": "MCI Televisión",
-    "iptv_urls": [
-      "https://video.ejeserver.com/live/mcitelevision.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "fT5wViIkqEBjJA",
     "name": "Memorias del Corazon",
     "iptv_urls": [
@@ -481,17 +470,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "RV4q1AzygKEv9i",
-    "name": "Salsa Gorda Television",
-    "iptv_urls": [
-      "https://live20.bozztv.com/akamaissh101/ssh101/qMUAZEy/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "uLP3L9mZv4sX8t",
     "name": "Supermúsica TV",
     "iptv_urls": [
@@ -563,17 +541,6 @@
     "name": "Tu Universo TV",
     "iptv_urls": [
       "https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "spa",
-    "country": "co",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VcAQv2UIywMiiL",
-    "name": "TV San Jorge",
-    "iptv_urls": [
-      "https://asucap.com/livestream/asucap_envivo.m3u8"
     ],
     "youtube_urls": [],
     "language": "spa",

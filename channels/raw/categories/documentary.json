@@ -15,7 +15,7 @@
     "name": "Asahi: Documentary",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/8yQO1765XxY"
+      "https://www.youtube-nocookie.com/embed/JAQpSHmib0Y"
     ],
     "language": "jpn",
     "country": "jp",
@@ -276,6 +276,17 @@
     "youtube_urls": [],
     "language": "fra",
     "country": "fr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GOMdLvvyu3y5ss",
+    "name": "GZT",
+    "iptv_urls": [
+      "https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
     "isGeoBlocked": false
   },
   {

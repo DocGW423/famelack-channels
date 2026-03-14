@@ -33,13 +33,11 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "Zb4yx0Hhhjqp7h",
+    "nanoid": "j8DVaCm6ri0nNo",
     "name": "Halab Today TV",
-    "iptv_urls": [
-      "https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8"
-    ],
+    "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/YB8awJtDDvE"
+      "https://www.youtube-nocookie.com/embed/GhFyycy-AdM"
     ],
     "language": "ara",
     "country": "sy",
