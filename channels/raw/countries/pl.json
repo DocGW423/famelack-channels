@@ -56,6 +56,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "Zgg5DBKwX2XCJo",
+    "name": "BTB International",
+    "iptv_urls": [
+      "https://emisja.btb.j00r.us/iptv/channel/2.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "pol",
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "QpkwHa7GwFnKLp",
     "name": "BTB Music",
     "iptv_urls": [
@@ -82,17 +93,6 @@
     "name": "Car City Adventures",
     "iptv_urls": [
       "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YVXMNDK2rpUCOO",
-    "name": "dlaCiebie.tv",
-    "iptv_urls": [
-      "https://6034e09794f07.streamlock.net/tv/dlaCiebieTv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",
@@ -172,17 +172,6 @@
     "youtube_urls": [
       "https://www.youtube-nocookie.com/embed/bgbUqi3cUi8"
     ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ulzRgEHfvju1VV",
-    "name": "Mazowsze.tv",
-    "iptv_urls": [
-      "https://live20.bozztv.com/giatvplayout7/giatv-211328/playlist.m3u8"
-    ],
-    "youtube_urls": [],
     "language": "pol",
     "country": "pl",
     "isGeoBlocked": false
@@ -365,17 +354,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "hjCXHjX41BNCM8",
-    "name": "Telewizja Gorzów",
-    "iptv_urls": [],
-    "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/hrnZshGwlD8"
-    ],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "hs9A8d0OBl1eij",
     "name": "Telewizja iTTV",
     "iptv_urls": [
@@ -545,17 +523,6 @@
     "name": "TVK Stella",
     "iptv_urls": [
       "https://stream.tvkstella.pl/stella/stella.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "pol",
-    "country": "pl",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "YlvIJtIuRi0z8J",
-    "name": "TVP Historia",
-    "iptv_urls": [
-      "https://lowa8026-cmyk.github.io/tvpvod/399702.m3u8"
     ],
     "youtube_urls": [],
     "language": "pol",

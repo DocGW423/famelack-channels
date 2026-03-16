@@ -259,6 +259,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "SSm48TGJZ2ZZyq",
+    "name": "FB TV",
+    "iptv_urls": [
+      "https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "tur",
+    "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "tmxui0c8hzZyDz",
     "name": "FIFA+",
     "iptv_urls": [
@@ -358,18 +369,6 @@
     "isGeoBlocked": true
   },
   {
-    "nanoid": "uV6lzloXXEajJ8",
-    "name": "FUEL TV",
-    "iptv_urls": [
-      "https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8",
-      "https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "at",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "440EBhNILeBYuU",
     "name": "Futbol",
     "iptv_urls": [
@@ -422,6 +421,17 @@
     ],
     "language": "tur",
     "country": "tr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GV38pwWqigwkoF",
+    "name": "HTV Thể thao",
+    "iptv_urls": [
+      "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "vie",
+    "country": "vn",
     "isGeoBlocked": false
   },
   {
@@ -644,8 +654,7 @@
     "iptv_urls": [
       "https://pac12-roku-us.amagi.tv/playlist.m3u8",
       "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-      "https://pac12-vizio.amagi.tv/playlist.m3u8",
-      "https://pac12-firetv.amagi.tv/playlist.m3u8"
+      "https://pac12-vizio.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",
@@ -872,7 +881,6 @@
     "iptv_urls": [
       "https://sportsgrid-plex.amagi.tv/playlist.m3u8",
       "https://sportsgrid-samsungus.amagi.tv/playlist.m3u8",
-      "https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -999,7 +1007,6 @@
     "nanoid": "KqqtNJzLvYMM8F",
     "name": "Trace Sports Stars",
     "iptv_urls": [
-      "https://tracesportstars-klowdtv.amagi.tv/playlist.m3u8",
       "https://amg01131-tracetv-amg01131c2-stirr-us-4392.playouts.now.amagi.tv/playlist.m3u8"
     ],
     "youtube_urls": [],
@@ -1137,17 +1144,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "VwGLdAillsoWR5",
-    "name": "Viaplay TV (Finland)",
-    "iptv_urls": [
-      "https://live-fi.tvkaista.net/viaplay-tv/live.m3u8?hd=true"
-    ],
-    "youtube_urls": [],
-    "language": "fin",
-    "country": "fi",
     "isGeoBlocked": false
   },
   {

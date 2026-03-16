@@ -70,7 +70,7 @@
     "name": "Awaz Tv News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/bbOsHan7RPU"
+      "https://www.youtube-nocookie.com/embed/6ERb8yaELl8"
     ],
     "language": "sd",
     "country": "pk",
@@ -210,17 +210,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "nWhRA7BRbeT6Pd",
-    "name": "God Stands TV",
-    "iptv_urls": [
-      "https://online.godstands.tv:5443/WebRTCApp/streams/mainlive.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "TmKO7eJbzWWIRg",
     "name": "God Stands TV Arabic",
     "iptv_urls": [
@@ -283,17 +272,6 @@
     ],
     "youtube_urls": [],
     "language": "tgl",
-    "country": "pk",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "5jBZcISN5C325C",
-    "name": "God Stands TV Urdu",
-    "iptv_urls": [
-      "https://online.godstands.tv:5443/WebRTCApp/streams/UrduStreaming.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "urd",
     "country": "pk",
     "isGeoBlocked": false
   },
@@ -536,7 +514,7 @@
     "name": "Sindh TV News",
     "iptv_urls": [],
     "youtube_urls": [
-      "https://www.youtube-nocookie.com/embed/aOh1gyGADmg"
+      "https://www.youtube-nocookie.com/embed/nTmjVhcrVNk"
     ],
     "language": "sd",
     "country": "pk",

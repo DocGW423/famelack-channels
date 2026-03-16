@@ -110,6 +110,17 @@
     "isGeoBlocked": false
   },
   {
+    "nanoid": "kmgZCVMju22EeN",
+    "name": "Canal Educativo",
+    "iptv_urls": [
+      "https://tv.picta.cu/educativo/educativo_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "language": "spa",
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
     "nanoid": "K3el31a2gq3vxi",
     "name": "Canal Educativo 2",
     "iptv_urls": [
@@ -241,61 +252,6 @@
     "youtube_urls": [],
     "language": "eng",
     "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "ZPk578ujZjTXPa",
-    "name": "DLTV 1",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv01.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "FH7NvrC8IdGbek",
-    "name": "DLTV 2",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv02.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "Z2nBboETrkSzIa",
-    "name": "DLTV 3",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv03.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "28rjnzXjPjea82",
-    "name": "DLTV 4",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv04.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "RfFYZpw2B1Tu6O",
-    "name": "DLTV 5",
-    "iptv_urls": [
-      "https://cdn-live.dltv.ac.th/dltv05.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "tha",
-    "country": "th",
     "isGeoBlocked": false
   },
   {
@@ -645,17 +601,6 @@
     "name": "MCN6 Arts Channel",
     "iptv_urls": [
       "https://d18fcxaqfnwjhj.cloudfront.net/CDN_Ingest/MCN6_COMEDY.smil/Playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "us",
-    "isGeoBlocked": false
-  },
-  {
-    "nanoid": "KGiWQ62o6Np82a",
-    "name": "Midpen Media Center Youth Education and Sports Channel 28",
-    "iptv_urls": [
-      "https://5c2974786200d.streamlock.net/live-chan28/ngrp:ch28_all/playlist.m3u8"
     ],
     "youtube_urls": [],
     "language": "eng",

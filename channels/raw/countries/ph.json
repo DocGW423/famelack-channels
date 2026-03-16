@@ -46,17 +46,6 @@
     "isGeoBlocked": false
   },
   {
-    "nanoid": "50fISDUbgXCYss",
-    "name": "Living Asia Channel",
-    "iptv_urls": [
-      "https://cdn.vegasplus.us/vegas/lac/playlist.m3u8"
-    ],
-    "youtube_urls": [],
-    "language": "eng",
-    "country": "ph",
-    "isGeoBlocked": false
-  },
-  {
     "nanoid": "RhkfgHInexT7iQ",
     "name": "Mindanow Network TV",
     "iptv_urls": [
@@ -108,6 +97,17 @@
     ],
     "youtube_urls": [],
     "language": "eng",
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iy4DzSWvO3GYHT",
+    "name": "Teleradyo Serbisyo",
+    "iptv_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/hqJh1d5z2Rw"
+    ],
+    "language": "tgl",
     "country": "ph",
     "isGeoBlocked": false
   },
