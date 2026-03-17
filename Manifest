@@ -1,0 +1,14 @@
+# Famelack-channels Roku Manifest
+title=Famelack Channels
+major_version=1
+minor_version=0
+build_version=00001
+
+# Graphics (Must exist in an /images folder)
+mm_icon_focus_fhd=pkg:/images/icon_fhd.png
+mm_icon_focus_hd=pkg:/images/icon_hd.png
+splash_screen_fhd=pkg:/images/splash_fhd.jpg
+
+# Permissions
+ui_resolutions=fhd
+supports_input_launch=1
